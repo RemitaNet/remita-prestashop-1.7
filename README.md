@@ -17,7 +17,7 @@ With Remita Prestashop Payment Plugin, the store admin can easily add all desire
 
 ### Plugin Features
 
-*   __Accept payment__ via Visa Cards, Mastercards, Verve Cards and ewallets (eTranzact, PocketMoney etc.)
+*   __Accept payment__ via Visa Cards, Mastercards, Verve Cards and eWallets
 
 * 	__Seamless integration__ into the Prestashop checkout page.
 * 	__Add Naira__ currency symbol. To select it, On Prestashop Admin, click on __International > Localization__ from the left hand menu, then go to  __Configuration__ on the page displayed. From __Default Currency__ select Naira, then click on __Save Changes__ for your changes to be effected.
