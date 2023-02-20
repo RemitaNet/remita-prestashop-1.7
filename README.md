@@ -44,3 +44,12 @@ With Remita Prestashop Payment Plugin, the store admin can easily add all desire
 3. Click on   *Configure* on Remita
 4. Enter the public key and secrete key (these can be found in the Remita Gateway Admin Panel --> https://login.remita.net/remita/registration/signup.spa
 5. Save the settings
+
+
+
+## Useful links
+* Join our Slack Developer/Support channel at http://bit.ly/RemitaDevSlack
+    
+## Support
+- For all other support needs, support@remita.net
+- To contribute to this repo, create an issue on what you intend to fix or update, make a PR and team will look into it and merge.
