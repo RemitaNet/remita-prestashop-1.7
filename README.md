@@ -7,6 +7,7 @@
 - [Setup](#setup)
 
 ---
+
 ### Summary
 
 With Remita Prestashop Payment Plugin, the store admin can easily add all desired payment methods to the Prestashop webshop. Please refer to https://www.remita.net for an overview of all features and services.
